@@ -23,7 +23,7 @@
                 <div class="footer_contact_widget">
                     <h4>Contact Us</h4>
                     <ul class="list-unstyled">
-                        <li><a href="#">info@findhouse.com</a></li>
+                        <li><a href="#">info@jmapraises.com</a></li>
                         <li><a href="#">Dar Es Salaam , Tanzania</a></li>
                         <li><a href="#">8007, Dar Es Salaam.</a></li>
                         <li><a href="#">+255621189860</a></li>

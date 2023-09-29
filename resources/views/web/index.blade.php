@@ -217,7 +217,7 @@
 											<li class="list-inline-item">
 											    <div class="form-group">
 											    	<input type="text" class="form-control" id="exampleInputEmail" placeholder="Location">
-											    	<label for="exampleInputEmail"><span class="flaticon-maps-and-flags"></span></label>
+											    	<label for="exampleInputEmail"><i class="fa-solid fa-map-location-dot" style="color: #0552d6;"></i></span></label>
 											    </div>
 											</li>
 											<li class="list-inline-item">
@@ -738,8 +738,8 @@
 												<li class="list-inline-item"><span>Featured</span></li>
 											</ul>
 											<ul class="icon mb0">
-												<li class="list-inline-item"><span class="flaticon-transfer-1 text-white"></span></li>
-												<li class="list-inline-item"><span class="flaticon-heart text-white"></span></li>
+												<li class="list-inline-item"><i class="fa-brands fa-nfc-symbol text-white"></i></span></li>
+												<li class="list-inline-item"><i class="fa-solid fa-heart text-red-600"></i></span></li>
 											</ul>
 											<span class="fp_price">Tsh 130,000<small>/mo</small></span>
 										</div>
@@ -748,7 +748,9 @@
 										<div class="tc_content">
 											<p class="text-thm">Apartment</p>
 											<h4>Renovated Apartment</h4>
-											<p><span class="flaticon-placeholder"></span> 1421 San Pedro St, Los Angeles, CA 90015</p>
+											<p><span class="flaticon-placeholder"></span> 1421 Mwenge, Dar Es Salaam, Tanzania
+
+</p>
 											<ul class="prop_details mb0">
 												<li class="list-inline-item"><span>Beds: 4</span></li>
 												<li class="list-inline-item"><span>Baths: 2</span></li>
@@ -786,7 +788,9 @@
 										<div class="tc_content">
 											<p class="text-thm">Apartment</p>
 											<h4>Renovated Apartment</h4>
-											<p><span class="flaticon-placeholder"></span> 1421 San Pedro St, Los Angeles, CA 90015</p>
+											<p><span class="flaticon-placeholder"></span> 1421 Mwenge, Dar Es Salaam, Tanzania
+
+</p>
 											<ul class="prop_details mb0">
 												<li class="list-inline-item"><span>Beds: 4</span></li>
 												<li class="list-inline-item"><span>Baths: 2</span></li>
@@ -824,7 +828,9 @@
 										<div class="tc_content">
 											<p class="text-thm">Apartment</p>
 											<h4>Renovated Apartment</h4>
-											<p><span class="flaticon-placeholder"></span> 1421 San Pedro St, Los Angeles, CA 90015</p>
+											<p><span class="flaticon-placeholder"></span> 1421 Mwenge, Dar Es Salaam, Tanzania
+
+</p>
 											<ul class="prop_details mb0">
 												<li class="list-inline-item"><span>Beds: 4</span></li>
 												<li class="list-inline-item"><span>Baths: 2</span></li>
@@ -863,7 +869,9 @@
 										<div class="tc_content">
 											<p class="text-thm">Apartment</p>
 											<h4>Renovated Apartment</h4>
-											<p><span class="flaticon-placeholder"></span> 1421 San Pedro St, Los Angeles, CA 90015</p>
+											<p><span class="flaticon-placeholder"></span> 1421 Mwenge, Dar Es Salaam, Tanzania
+
+</p>
 											<ul class="prop_details mb0">
 												<li class="list-inline-item"><span>Beds: 4</span></li>
 												<li class="list-inline-item"><span>Baths: 2</span></li>
@@ -901,7 +909,9 @@
 										<div class="tc_content">
 											<p class="text-thm">Apartment</p>
 											<h4>Renovated Apartment</h4>
-											<p><span class="flaticon-placeholder"></span> 1421 San Pedro St, Los Angeles, CA 90015</p>
+											<p><span class="flaticon-placeholder"></span> 1421 Mwenge, Dar Es Salaam, Tanzania
+
+</p>
 											<ul class="prop_details mb0">
 												<li class="list-inline-item"><span>Beds: 4</span></li>
 												<li class="list-inline-item"><span>Baths: 2</span></li>
@@ -939,7 +949,9 @@
 										<div class="tc_content">
 											<p class="text-thm">Apartment</p>
 											<h4>Renovated Apartment</h4>
-											<p><span class="flaticon-placeholder"></span> 1421 San Pedro St, Los Angeles, CA 90015</p>
+											<p><span class="flaticon-placeholder"></span> 1421 Mwenge, Dar Es Salaam, Tanzania
+
+</p>
 											<ul class="prop_details mb0">
 												<li class="list-inline-item"><span>Beds: 4</span></li>
 												<li class="list-inline-item"><span>Baths: 2</span></li>
@@ -978,7 +990,9 @@
 										<div class="tc_content">
 											<p class="text-thm">Apartment</p>
 											<h4>Renovated Apartment</h4>
-											<p><span class="flaticon-placeholder"></span> 1421 San Pedro St, Los Angeles, CA 90015</p>
+											<p><span class="flaticon-placeholder"></span> 1421 Mwenge, Dar Es Salaam, Tanzania
+
+</p>
 											<ul class="prop_details mb0">
 												<li class="list-inline-item"><span>Beds: 4</span></li>
 												<li class="list-inline-item"><span>Baths: 2</span></li>
@@ -1016,7 +1030,9 @@
 										<div class="tc_content">
 											<p class="text-thm">Apartment</p>
 											<h4>Renovated Apartment</h4>
-											<p><span class="flaticon-placeholder"></span> 1421 San Pedro St, Los Angeles, CA 90015</p>
+											<p><span class="flaticon-placeholder"></span> 1421 Mwenge, Dar Es Salaam, Tanzania
+
+</p>
 											<ul class="prop_details mb0">
 												<li class="list-inline-item"><span>Beds: 4</span></li>
 												<li class="list-inline-item"><span>Baths: 2</span></li>
@@ -1054,7 +1070,9 @@
 										<div class="tc_content">
 											<p class="text-thm">Apartment</p>
 											<h4>Renovated Apartment</h4>
-											<p><span class="flaticon-placeholder"></span> 1421 San Pedro St, Los Angeles, CA 90015</p>
+											<p><span class="flaticon-placeholder"></span> 1421 Mwenge, Dar Es Salaam, Tanzania
+
+</p>
 											<ul class="prop_details mb0">
 												<li class="list-inline-item"><span>Beds: 4</span></li>
 												<li class="list-inline-item"><span>Baths: 2</span></li>
@@ -1093,7 +1111,9 @@
 										<div class="tc_content">
 											<p class="text-thm">Apartment</p>
 											<h4>Renovated Apartment</h4>
-											<p><span class="flaticon-placeholder"></span> 1421 San Pedro St, Los Angeles, CA 90015</p>
+											<p><span class="flaticon-placeholder"></span> 1421 Mwenge, Dar Es Salaam, Tanzania
+
+</p>
 											<ul class="prop_details mb0">
 												<li class="list-inline-item"><span>Beds: 4</span></li>
 												<li class="list-inline-item"><span>Baths: 2</span></li>
@@ -1131,7 +1151,9 @@
 										<div class="tc_content">
 											<p class="text-thm">Apartment</p>
 											<h4>Renovated Apartment</h4>
-											<p><span class="flaticon-placeholder"></span> 1421 San Pedro St, Los Angeles, CA 90015</p>
+											<p><span class="flaticon-placeholder"></span> 1421 Mwenge, Dar Es Salaam, Tanzania
+
+</p>
 											<ul class="prop_details mb0">
 												<li class="list-inline-item"><span>Beds: 4</span></li>
 												<li class="list-inline-item"><span>Baths: 2</span></li>
@@ -1169,7 +1191,9 @@
 										<div class="tc_content">
 											<p class="text-thm">Apartment</p>
 											<h4>Renovated Apartment</h4>
-											<p><span class="flaticon-placeholder"></span> 1421 San Pedro St, Los Angeles, CA 90015</p>
+											<p><span class="flaticon-placeholder"></span> 1421 Mwenge, Dar Es Salaam, Tanzania
+
+</p>
 											<ul class="prop_details mb0">
 												<li class="list-inline-item"><span>Beds: 4</span></li>
 												<li class="list-inline-item"><span>Baths: 2</span></li>
@@ -1234,7 +1258,9 @@
 							<div class="tc_content">
 								<p class="text-thm">Apartment</p>
 								<h4>Renovated Apartment</h4>
-								<p><span class="flaticon-placeholder"></span> 1421 San Pedro St, Los Angeles, CA 90015</p>
+								<p><span class="flaticon-placeholder"></span> 1421 Mwenge, Dar Es Salaam, Tanzania
+
+</p>
 								<ul class="prop_details mb0">
 									<li class="list-inline-item"><a class="text-thm3" href="#">Beds: 4</a></li>
 									<li class="list-inline-item"><a class="text-thm3" href="#">Baths: 2</a></li>
@@ -1280,7 +1306,9 @@
 							<div class="tc_content">
 								<p class="text-thm">Villa</p>
 								<h4>Gorgeous Villa Bay View</h4>
-								<p><span class="flaticon-placeholder"></span> 1421 San Pedro St, Los Angeles, CA 90015</p>
+								<p><span class="flaticon-placeholder"></span> 1421 Mwenge, Dar Es Salaam, Tanzania
+
+</p>
 								<ul class="prop_details mb0">
 									<li class="list-inline-item"><a class="text-thm3" href="#">Beds: 4</a></li>
 									<li class="list-inline-item"><a class="text-thm3" href="#">Baths: 2</a></li>
@@ -1326,7 +1354,9 @@
 							<div class="tc_content">
 								<p class="text-thm">Single Family Home</p>
 								<h4>Luxury Family Home</h4>
-								<p><span class="flaticon-placeholder"></span> 1421 San Pedro St, Los Angeles, CA 90015</p>
+								<p><span class="flaticon-placeholder"></span> 1421 Mwenge, Dar Es Salaam, Tanzania
+
+</p>
 								<ul class="prop_details mb0">
 									<li class="list-inline-item"><a class="text-thm3" href="#">Beds: 4</a></li>
 									<li class="list-inline-item"><a class="text-thm3" href="#">Baths: 2</a></li>
@@ -1372,7 +1402,9 @@
 							<div class="tc_content">
 								<p class="text-thm">Apartment</p>
 								<h4>Luxury Family Home</h4>
-								<p><span class="flaticon-placeholder"></span> 1421 San Pedro St, Los Angeles, CA 90015</p>
+								<p><span class="flaticon-placeholder"></span> 1421 Mwenge, Dar Es Salaam, Tanzania
+
+</p>
 								<ul class="prop_details mb0">
 									<li class="list-inline-item"><a class="text-thm3" href="#">Beds: 4</a></li>
 									<li class="list-inline-item"><a class="text-thm3" href="#">Baths: 2</a></li>
@@ -1418,7 +1450,9 @@
 							<div class="tc_content">
 								<p class="text-thm">Apartment</p>
 								<h4>Renovated Apartment</h4>
-								<p><span class="flaticon-placeholder"></span> 1421 San Pedro St, Los Angeles, CA 90015</p>
+								<p><span class="flaticon-placeholder"></span> 1421 Mwenge, Dar Es Salaam, Tanzania
+
+</p>
 								<ul class="prop_details mb0">
 									<li class="list-inline-item"><a class="text-thm3" href="#">Beds: 4</a></li>
 									<li class="list-inline-item"><a class="text-thm3" href="#">Baths: 2</a></li>
@@ -1464,7 +1498,9 @@
 							<div class="tc_content">
 								<p class="text-thm">Villa</p>
 								<h4>Gorgeous Villa Bay View</h4>
-								<p><span class="flaticon-placeholder"></span> 1421 San Pedro St, Los Angeles, CA 90015</p>
+								<p><span class="flaticon-placeholder"></span> 1421 Mwenge, Dar Es Salaam, Tanzania
+
+</p>
 								<ul class="prop_details mb0">
 									<li class="list-inline-item"><a class="text-thm3" href="#">Beds: 4</a></li>
 									<li class="list-inline-item"><a class="text-thm3" href="#">Baths: 2</a></li>
@@ -1510,7 +1546,9 @@
 							<div class="tc_content">
 								<p class="text-thm">Single Family Home</p>
 								<h4>Luxury Family Home</h4>
-								<p><span class="flaticon-placeholder"></span> 1421 San Pedro St, Los Angeles, CA 90015</p>
+								<p><span class="flaticon-placeholder"></span> 1421 Mwenge, Dar Es Salaam, Tanzania
+
+</p>
 								<ul class="prop_details mb0">
 									<li class="list-inline-item"><a class="text-thm3" href="#">Beds: 4</a></li>
 									<li class="list-inline-item"><a class="text-thm3" href="#">Baths: 2</a></li>
@@ -1556,7 +1594,9 @@
 							<div class="tc_content">
 								<p class="text-thm">Apartment</p>
 								<h4>Luxury Family Home</h4>
-								<p><span class="flaticon-placeholder"></span> 1421 San Pedro St, Los Angeles, CA 90015</p>
+								<p><span class="flaticon-placeholder"></span> 1421 Mwenge, Dar Es Salaam, Tanzania
+
+</p>
 								<ul class="prop_details mb0">
 									<li class="list-inline-item"><a class="text-thm3" href="#">Beds: 4</a></li>
 									<li class="list-inline-item"><a class="text-thm3" href="#">Baths: 2</a></li>
@@ -1602,7 +1642,9 @@
 							<div class="tc_content">
 								<p class="text-thm">Apartment</p>
 								<h4>Renovated Apartment</h4>
-								<p><span class="flaticon-placeholder"></span> 1421 San Pedro St, Los Angeles, CA 90015</p>
+								<p><span class="flaticon-placeholder"></span> 1421 Mwenge, Dar Es Salaam, Tanzania
+
+</p>
 								<ul class="prop_details mb0">
 									<li class="list-inline-item"><a class="text-thm3" href="#">Beds: 4</a></li>
 									<li class="list-inline-item"><a class="text-thm3" href="#">Baths: 2</a></li>

@@ -224,7 +224,9 @@
 				<div class="col-lg-7 col-xl-8">
 					<div class="single_property_title mt30-767">
 						<h2>Luxury Family Home</h2>
-						<p>1421 San Pedro St, Los Angeles, CA 90015</p>
+						<p>1421 Mwenge, Dar Es Salaam, Tanzania
+
+</p>
 					</div>
 				</div>
 				<div class="col-lg-5 col-xl-4">
@@ -461,7 +463,9 @@
 						</div>
 						<div class="col-lg-12">
 							<div class="application_statics mt30">
-								<h4 class="mb30">Location <small class="float-right">1421 San Pedro St, Los Angeles, CA 90015</small></h4>
+								<h4 class="mb30">Location <small class="float-right">1421 Mwenge, Dar Es Salaam, Tanzania
+
+</small></h4>
 
 							</div>
 						</div>
@@ -563,7 +567,9 @@
 									<div class="tc_content">
 										<p class="text-thm">Apartment</p>
 										<h4>Renovated Apartment</h4>
-										<p><span class="flaticon-placeholder"></span> 1421 San Pedro St, Los Angeles, CA 90015</p>
+										<p><span class="flaticon-placeholder"></span> 1421 Mwenge, Dar Es Salaam, Tanzania
+
+</p>
 										<ul class="prop_details mb0">
 											<li class="list-inline-item"><a href="#">Beds: 4</a></li>
 											<li class="list-inline-item"><a href="#">Baths: 2</a></li>
@@ -599,7 +605,9 @@
 									<div class="tc_content">
 										<p class="text-thm">Apartment</p>
 										<h4>Renovated Apartment</h4>
-										<p><span class="flaticon-placeholder"></span> 1421 San Pedro St, Los Angeles, CA 90015</p>
+										<p><span class="flaticon-placeholder"></span> 1421 Mwenge, Dar Es Salaam, Tanzania
+
+</p>
 										<ul class="prop_details mb0">
 											<li class="list-inline-item"><a href="#">Beds: 4</a></li>
 											<li class="list-inline-item"><a href="#">Baths: 2</a></li>
@@ -635,7 +643,9 @@
 									<div class="tc_content">
 										<p class="text-thm">Apartment</p>
 										<h4>Renovated Apartment</h4>
-										<p><span class="flaticon-placeholder"></span> 1421 San Pedro St, Los Angeles, CA 90015</p>
+										<p><span class="flaticon-placeholder"></span> 1421 Mwenge, Dar Es Salaam, Tanzania
+
+</p>
 										<ul class="prop_details mb0">
 											<li class="list-inline-item"><a href="#">Beds: 4</a></li>
 											<li class="list-inline-item"><a href="#">Baths: 2</a></li>
@@ -672,7 +682,9 @@
 									<div class="tc_content">
 										<p class="text-thm">Apartment</p>
 										<h4>Renovated Apartment</h4>
-										<p><span class="flaticon-placeholder"></span> 1421 San Pedro St, Los Angeles, CA 90015</p>
+										<p><span class="flaticon-placeholder"></span> 1421 Mwenge, Dar Es Salaam, Tanzania
+
+</p>
 										<ul class="prop_details mb0">
 											<li class="list-inline-item"><a href="#">Beds: 4</a></li>
 											<li class="list-inline-item"><a href="#">Baths: 2</a></li>

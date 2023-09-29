@@ -13,13 +13,15 @@
 <!-- css file -->
 <link rel="stylesheet" href="{{ url('css/web/bootstrap.min.css') }}">
 <link rel="stylesheet" href="{{ url('css/web/style.css') }}">
-<link rel="stylesheet" href="{{ url('css/web/flaticon.css') }}">
+{{-- <link rel="stylesheet" href="{{ url('css/web/flaticon.css') }}"> --}}
 
 <!-- Responsive stylesheet -->
 <link rel="stylesheet" href="{{ url('css/web/responsive.css') }}">
 <link rel="stylesheet" href="{{ url('favicon.ico') }}">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flat-icons@1.0.0/creative.css">
-<!-- Title -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+{{-- <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css'> --}}
+
+{{-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flat-icons/creative.min.css"><!-- Title --> --}}
 <title>JM Apraisers</title>
 <!-- Favicon -->
 <link href="images/favicon.ico" sizes="128x128" rel="shortcut icon" t[]ype="image/x-icon" />
